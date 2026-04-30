@@ -1,2 +1,6 @@
-nasa.zip
-ghita_oumaidi_project_proposal (1).docx
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

@@ -200,7 +200,3 @@ Some natural next steps are:
 - compare PCA and LSTM with detection lead time
 - try FD003 as a second benchmark
 - add more interpretation of sensor-level anomaly behavior
-
-## Authors / Course Context
-
-This repository contains coursework for a graduate machine learning project built around the NASA C-MAPSS dataset and notebook-based experimentation.
